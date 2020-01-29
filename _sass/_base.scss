@@ -73,6 +73,12 @@ p {
     color: white;
 }
 
+.bg-compliance {
+    background-color: $theme-primary;
+    background-image: url('../img/compliance.jpg');
+    background-position: center;
+    color: white;
+}
 .bg-gdpr {
     background-color: $theme-primary;
     background-image: url('../img/gdpr.jpg');

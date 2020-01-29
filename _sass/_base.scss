@@ -62,7 +62,7 @@ p {
 }
 
 .bg-primary {
-    background-color: $theme-primary;
+    background-color: white;
     color: black
 }
 
@@ -72,23 +72,23 @@ p {
 }
 
 .bg-more {
-    background-color: $theme-primary;
+    background-color: white;
     background-image: url('../img/more.jpg');
     background-position: center;
-    color: white;
+    color: black;
 }
 
 .bg-compliance {
-    background-color: $theme-primary;
+    background-color: white;
     background-image: url('../img/compliance.jpg');
     background-position: center;
-    color: white;
+    color: black;
 }
 .bg-gdpr {
-    background-color: $theme-primary;
+    background-color: white;
     background-image: url('../img/gdpr.jpg');
     background-position: center;
-    color: white;
+    color: black;
 }
 
 .bg-resources {
@@ -210,7 +210,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    // color: white;
+    color: black;
     .header-content {
         position: relative;
         text-align: center;
@@ -281,10 +281,10 @@ header {
     max-width: 650px;
     margin: 0 auto;
     .portfolio-box-caption {
-        color: white;
+        color: black;
         opacity: 0;
         display: block;
-        background: rgba( $theme-primary, .9 );
+        background: rgba( white, .9 );
         position: absolute;
         bottom: 0;
         text-align: center;
@@ -340,7 +340,7 @@ header {
 
 // Bootstrap Overrides
 .text-primary {
-    color: $theme-primary;
+    color: black;
 }
 
 .no-gutter > [class*='col-'] {
@@ -386,7 +386,7 @@ header {
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
-    color: white;
+    color: black;
     text-shadow: none;
     background: $theme-dark;
 }

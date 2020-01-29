@@ -72,17 +72,17 @@ p {
 }
 
 .bg-more {
-    background-color: white;
+    background-color: $theme-primary;
     background-image: url('../img/more.jpg');
     background-position: center;
-    color: black;
+    color: white;
 }
 
 .bg-compliance {
-    background-color: white;
+    background-color: $theme-primary;
     background-image: url('../img/compliance.jpg');
     background-position: center;
-    color: black;
+    color: white;
 }
 .bg-gdpr {
     background-color: white;

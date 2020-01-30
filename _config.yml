@@ -15,7 +15,7 @@ baseurl: ''
 resources_url: 'resources'
 
 # copyright text in footer
-copyright: dario.pw • Security
+copyright: dario.pw
 
 # email address
 email: contact@dario.pw

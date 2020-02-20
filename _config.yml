@@ -13,6 +13,7 @@ english_url: https://dario.pw
 french_url: https://dario.site
 baseurl: ''
 resources_url: 'resources'
+services_url: 'services'
 
 # copyright text in footer
 copyright: dario.pw

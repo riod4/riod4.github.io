@@ -10,7 +10,7 @@ image: img/header.jpg
 # urls
 url: https://dario.pw
 english_url: https://dario.pw
-french_url: https://dario.site
+french_url: https://riod4fr.github.io/
 baseurl: ''
 resources_url: 'resources'
 services_url: 'services'

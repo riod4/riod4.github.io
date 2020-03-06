@@ -9,8 +9,8 @@ logo: img/chklst.png
 image: img/header.jpg
 # urls
 url: http://www.dario.best
-english_url: http://www.dario.best
-french_url: https://riod4fr.github.io/
+english_url: ''
+french_url: 'fr'
 baseurl: ''
 resources_url: 'resources'
 services_url: 'services'

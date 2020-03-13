@@ -27,8 +27,8 @@ email_privacy: privacy@dario.best
 # contact telephone number
 telephone_number:
 
-# search tracking id for dario.pw ??? check before moving to .com
-google_tracking_id: UA-98131817-4
+# search tracking id for dario.best check before moving to .com
+google_tracking_id: UA-98131817-5
 
 webmaster_verifications:
   google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc

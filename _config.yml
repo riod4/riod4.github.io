@@ -8,7 +8,7 @@ lang: en_US
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: http://dario.best
+url: https://dario.best
 english_url: ''
 french_url: 'fr'
 baseurl: ''

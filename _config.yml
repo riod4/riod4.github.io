@@ -1,5 +1,5 @@
 # Basic Settings
-title: dario.best • Leverage Privacy Investments • Grow your business
+title: dario.com • Leverage Privacy Investments • Grow your business
 description: We optimize data privacy and compliance programs, building private data protection into the fabric of your organization, increasing trust and opportunities.
 author: dario
 # Language format language_TERRITORY. Default is en_US
@@ -8,7 +8,7 @@ lang: en_US
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: https://dario.best
+url: https://riod4.github.io
 english_url: ''
 french_url: 'fr'
 baseurl: ''
@@ -16,20 +16,21 @@ resources_url: 'resources'
 services_url: 'services'
 
 # copyright text in footer
-copyright: dario.best
+copyright: dario.com
 
 # email address
-email: contact@dario.best
-email_username: contact@dario.best
+email: contact@dario.com
+email_username: contact@dario.com
 # email address in privacy policy
-email_privacy: privacy@dario.best
+email_privacy: privacy@dario.com
 
 # contact telephone number
 telephone_number:
 
 # search tracking id for dario.best check before moving to .com
-google_tracking_id: UA-98131817-5
+google_tracking_id: UA-98131817-2
 
+# verify check before moving to .com
 webmaster_verifications:
   google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
   bing: AC24F3DF5CA3A5221FB7E01EF2D9AAC4

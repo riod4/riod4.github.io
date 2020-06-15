@@ -6,78 +6,98 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://dario.com/</loc>
+  <lastmod>2020-06-14T16:53:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://dario.com/fr</loc>
+  <lastmod>2020-06-14T16:53:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://dario.com/services/services</loc>
-  <priority>0.90</priority>
+  <loc>https://dario.com/services/contact</loc>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/services/assess-readiness</loc>
-  <priority>0.90</priority>
-</url>      
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://dario.com/services/enhance-value</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/services/train-people</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/services/ensure-continuity</loc>
-  <priority>0.90</priority>
-</url> 
-<url>
-  <loc>https://dario.com/services/contact</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/services/privacy-policy</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/services/services</loc>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/contact</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/assess-risk</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/protect-assets</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/training-staff</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/ensure-continuity</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/gdpr</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/ceo-fraud</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/ransomware-security</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/cyber-insurance</loc>
-  <priority>0.80</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/better-password-security</loc>
-  <priority>0.90</priority>
+  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
 </urlset>

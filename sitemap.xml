@@ -90,8 +90,18 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://dario.com/fr-services/ccpa</loc>
+  <lastmod>2020-06-27T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://dario.com/resources/gdpr-5-questions</loc>
   <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dario.com/fr-services/rgpd-5-questions</loc>
+  <lastmod>2020-06-27T16:30:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -100,8 +110,18 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://dario.com/fr-services/rgpd</loc>
+  <lastmod>2020-06-27T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://dario.com/resources/ceo-fraud</loc>
   <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dario.com/fr-services/fraude-du-PDG</loc>
+  <lastmod>2020-06-27T16:30:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -110,13 +130,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dario.com/fr-services//securite-rancongiciel</loc>
+  <loc>https://dario.com/fr-services/securite-rancongiciel</loc>
   <lastmod>2020-06-26T16:30:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/cyber-insurance</loc>
   <lastmod>2020-06-13T16:30:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dario.com/fr-services/assurance-cyber-risques</loc>
+  <lastmod>2020-06-27T16:30:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -128,31 +153,6 @@
   <loc>https://dario.com/fr-services/mot-de-passe</loc>
   <lastmod>2020-06-26T16:30:51+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://dario.com/resources/contact</loc>
-  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
-<url>
-  <loc>https://dario.com/resources/assess-risk</loc>
-  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
-<url>
-  <loc>https://dario.com/resources/protect-assets</loc>
-  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
-<url>
-  <loc>https://dario.com/resources/training-staff</loc>
-  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
-<url>
-  <loc>https://dario.com/resources/ensure-continuity</loc>
-  <lastmod>2020-06-13T16:30:51+00:00</lastmod>
-  <priority>0.40</priority>
 </url>
 
 </urlset>

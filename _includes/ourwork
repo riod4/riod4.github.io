@@ -1,0 +1,12 @@
+<section class="bg-primary" id="intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Our Work</h2>
+                <hr>
+                <p>Experience Matters. With experience providing innovative and effective personal data management strategies for companies of all sizes, we can help you achieve your objectives.</p>
+                <!--<a href="#contact" class="btn btn-default btn-xl">Contact</a>-->
+            </div>
+        </div>
+    </div>
+</section>

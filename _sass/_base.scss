@@ -90,7 +90,11 @@ p {
     background-position: center;
     color: black;
 }
-
+.bg-ourwork {
+     background-color: white;
+     color: black;
+     padding: 10px 0;
+ }
 .bg-resources {
     background-color: $theme-primary;
     background-image: url('../img/resources.jpg');
